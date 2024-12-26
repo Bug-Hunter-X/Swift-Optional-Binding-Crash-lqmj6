@@ -1,0 +1,1 @@
+This repository demonstrates a common Swift error: forgetting to handle the nil case when unwrapping optionals. The `bug.swift` file contains the problematic code, while `bugSolution.swift` provides a corrected version using optional binding and the nil coalescing operator.
